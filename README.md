@@ -4,7 +4,7 @@
 ## COCO Version: 0.4.1
 
 ---
-### 1. MOI Manifests for PISA
+## 1. MOI Manifests for PISA
 
 **Provided Steps in documentation**:
 ```
@@ -29,7 +29,7 @@ Compiling on Logiclab
 - First-time users may not fully understand the **seventh** and **eighth steps**. Try to explain what "deployer" and "invokable" mean or provide some examples. Alternatively, this information can be removed from here and added to the **Modules & Packages** section.
 
 ---
-### 2. Primitive & Numeric Types
+## 2. Primitive & Numeric Types
 
 **Provided Example in documentation**:
 ```
@@ -202,7 +202,7 @@ func do() -> (res String):
 ```
 
 --- 
-### 6.  Looping & Iteration
+## 6.  Looping & Iteration
 
 **Provided Example in documentation**:
 ```
@@ -270,7 +270,7 @@ func breakAndContinue() -> (filter []U64):
 
 ---
 
-### 7. Yielding Return Values
+## 7. Yielding Return Values
 
 **Provided Example in documentation**:
 ```
@@ -326,7 +326,7 @@ func MapCheck(a []U64, m Map[U64]String) -> (has Bool):
 
 
 ---
-### 8.  Throwing & Catching Exceptions
+## 8.  Throwing & Catching Exceptions
 
 **Provided Example in documentation**:
 ```
@@ -370,7 +370,7 @@ class TooLong:
 
 
 ---
-### 9. Observing & Mutating State
+## 9. Observing & Mutating State
 
 **Provided Example in documentation**:
 ```
